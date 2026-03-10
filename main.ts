@@ -83,10 +83,10 @@ export default class AIWriterPlugin extends Plugin {
 
   async callAI(prompt: string): Promise<string> {
     // 调用本地 oMLX API
-    const response = await fetch('http://127.0.0.1:8000/v1/chat/completions', {
+    const response = await fetch('', {
       method: 'POST',
       headers: {
-        'Authorization': 'Bearer Zxd707759',
+        'Authorization': 'Bearer',
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
