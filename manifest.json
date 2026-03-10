@@ -1,0 +1,12 @@
+{
+  "id": "ai-writer",
+  "name": "AI Writer",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.0",
+  "description": "AI Writing Assistant - 续写、润色、总结",
+  "author": "AI Team",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "license": "MIT",
+  "category": "editor"
+}
